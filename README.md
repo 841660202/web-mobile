@@ -1,3 +1,4 @@
+```
 .
 ├── README.md
 ├── mock
@@ -27,3 +28,12 @@
 
 10 directories, 15 files
 # web-mobile
+
+```
+
+
+```
+  v0.0.1
+  git add . && git commit -m 'change readme.md' && git push
+
+```

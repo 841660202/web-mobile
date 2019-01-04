@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="455px" height="59px" viewBox="0 0 455 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>路径 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="37.1573875%" x2="98.8210251%" y2="91.0829123%" id="linearGradient-1">
+            <stop stop-color="#0EB4FF" offset="0%"></stop>
+            <stop stop-color="#48AEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1.16796875,17.1568099 C36.5030493,5.2344958 70.7803931,-0.308982141 104,0.526376086 C153.82941,1.77941343 142.746795,21.8878959 189.308594,21.8878959 C235.870392,21.8878959 240.24849,0.526376086 287.222656,0.526376086 C334.196823,0.526376086 336.089845,22.4607344 378.804688,21.8878959 C421.51953,21.3150575 454.421875,-8.77482924 454.421875,10.1484722 C454.421875,22.7640065 454.421875,38.6142554 454.421875,57.6992187 L1.16796875,55.6435285 L1.16796875,17.1568099 Z" id="路径-4" stroke="#979797" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

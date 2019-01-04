@@ -34,6 +34,5 @@
 
 ```
   v0.0.1
-  git add . && git commit -m 'change readme.md' && git push
 
 ```

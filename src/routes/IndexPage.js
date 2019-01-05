@@ -1,11 +1,6 @@
 import React from 'react';
 import { connect } from 'dva';
-import styles from './IndexPage.less';
-import { Button, WhiteSpace } from 'antd-mobile';
-import { Link } from 'dva/router'
-import Banner from "../components/Banner";
-import GridNav from "../components/GridNav";
-import TabBarNav from "../components/TabNav";
+import TabBarNav from "./TabNav";
 function IndexPage() {
   // return (
   //   <div className={styles.normal}>

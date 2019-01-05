@@ -1,4 +1,4 @@
-import { Carousel, WingBlank } from 'antd-mobile';
+import { Carousel } from 'antd-mobile';
 import React from 'react';
 import banner0 from  '../assets/banner0.png'
 import banner1 from  '../assets/banner1.png'
@@ -32,7 +32,7 @@ export  default class Banner extends React.Component {
           {this.state.data.map(val => (
             <a
               key={val}
-              href="http://www.alipay.com"
+              // href="http://www.alipay.com"
               style={{ display: 'inline-block', width: '100%', height: this.state.imgHeight }}
             >
               <img

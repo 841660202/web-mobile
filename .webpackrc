@@ -1,5 +1,0 @@
-{
- "extraBabelPlugins": [
-   ["import", { "libraryName": "antd-mobile", "libraryDirectory": "es", "style": true }]
- ]
-}
